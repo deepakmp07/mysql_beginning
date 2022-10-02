@@ -2,4 +2,4 @@
 
 
 show databases;
-show tables;
+desc table student;
